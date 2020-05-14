@@ -20,7 +20,7 @@
     <string name="action_anchor_disable">Disable Anchor Point</string>
     <string name="idle">Idle</string>
     <string name="crash_toast_text">Oops Crashe Occurred</string>
-    <string name="offer_banner">"Shop for 2000 to get Rs 100 discount and shop for 3000 to get Rs 200 discount"</string>
+    <string name="offer_banner">"Shop for 2000 to get discount and shop for 3000 to get 200 discount"</string>
     <string name="checkout">CheckOut</string>
     <string name="similar_product">You may also like</string>
     <string name="slogan">Assignment</string>
@@ -28,9 +28,9 @@
     <string name="personal_website_">Personal Website : </string>
     <string name="site_hitesh">www.sopan.me</string>
     <string name="contact_number">Contact Number</string>
-    <string name="mob_num">+881685 053007</string>
+    <string name="mob_num">+8562099873934</string>
     <string name="lab_locations">Locations</string>
-    <string name="pune">Dhaka</string>
-    <string name="address_value">Gulshan Tejgaon Link Road, Dhaka-1208, Bangladesh</string>
+    <string name="pune">Laos</string>
+    <string name="address_value"> Luangnamtha, Laos</string>
 
 </resources>
